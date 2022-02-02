@@ -4,19 +4,20 @@ This is a mini-project on JsonPowerDB featuring some of the use case of jsdb lib
 # Title:- Web Form Example
 
 ## Description of Project:
+
 * In this project describes how to validate and get data from form.
 * It shows how to create put request and how to execute the request. 
-_ Then it shows after submitting the data how the form gets reset.
-_ Project makes use of the [JPDB library](https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js) to use some of the inbuilt functions like executeCommandAtGivenBaseUrl() and createPUTRequest() which thereafter makes the code short and simple to understand.
+* Then it shows after submitting the data how the form gets reset.
+* Project makes use of the [JPDB library](https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js) to use some of the inbuilt functions like executeCommandAtGivenBaseUrl() and createPUTRequest() which thereafter makes the code short and simple to understand.
 
 ## Benefits of using JsonPowerDB:
-***
-> Its Nimble, Simple to use, and In-Memory database.
-> Its Schema free so easy to maintain.
-It has Simplest way to retrive data in JSON format.
-It is build around world fastest indexing engine - PowerIndex.
-It helps developers in faster coding, in-turn reduces development cost.
-It givex maximum data processing performance.
+
+* Its Nimble, Simple to use, and In-Memory database.
+* Its Schema free so easy to maintain.
+* It has Simplest way to retrive data in JSON format.
+* It is build around world fastest indexing engine - PowerIndex.
+* It helps developers in faster coding, in-turn reduces development cost.
+* It givex maximum data processing performance.
 
 ## Screenshots:
 This shows the dashboard of JsonPowerDB 
